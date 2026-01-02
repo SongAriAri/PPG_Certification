@@ -18,3 +18,13 @@ ResNet의 Layer를 추가함 (더 깊게)
 ### ResNet Encoder (Large) + Concat Fusion + Cross-Attention
 - Best Validation Accuracy : 94.6%
 - EER (Equal Error Rate): 2.0278%
+
+### Transformer
+- Best Validation Accuracy : 86.2%
+- EER (Equal Error Rate): 5.3270%
+
+### ResNet Encoder (Large) + SE Layer + Concat Fusion + Cross-Attention
+- Best Validation Accuracy : 94.6%
+- EER (Equal Error Rate): 1.5602%
+
+
